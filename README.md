@@ -32,6 +32,13 @@
 - NPU software [rknpu2](https://github.com/rockchip-linux/rknpu2) 1.4.0
 - [TeamViewer aarch64](https://www.teamviewer.com/en/download/linux/) 15.24.5
 
+------------
+
+### Thanks.
+A more than special thanks to ***Stuart Naylor***, who provided us with the Rock Pi 5 for free.
+
+------------
+
 ![output image]( https://qengineering.eu/github/RockPi5.webp )<br/><br/>
 
 ------------
