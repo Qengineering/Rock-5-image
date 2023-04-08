@@ -1,6 +1,6 @@
-# Rock Pi 5 image
+# Rock 5 image
 ![output image]( https://qengineering.eu/github/SDcard32GB_RockPi5_Large.webp)<br/>
-## A Rock Pi 5 image with OpenCV, ncnn, TNN and NPU
+## A Rock 5 image with OpenCV, ncnn, TNN and NPU
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 
 ------------
@@ -10,7 +10,7 @@
 - Get a 32 GB (minimal) SD-card which will hold the image. 
 - Download the `RockPi5.img.xz` image (2.8 GByte) from our [Sync](https://ln5.sync.com/dl/b9c189080/csvcycve-qn6f2zt8-49z54nm6-m9gvzbf3) site. 
 - Flash the image on the SD card with the [Imager](https://www.raspberrypi.org/software/) or [balenaEtcher](https://www.balena.io/etcher/).
-- Insert the SD card in your Rock Pi 5 and enjoy.
+- Insert the SD card in your Rock 5 and enjoy.
 - Username: ***rock***
 - no password 
 
